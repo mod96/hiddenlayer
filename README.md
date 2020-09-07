@@ -27,10 +27,6 @@ About contents...
 
 
 
-### Last update : 2020/09/07
-
-
-
 
 
 
