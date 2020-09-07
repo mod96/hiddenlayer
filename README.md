@@ -26,6 +26,13 @@ About contents...
 * This contains DataScience Projects, Deep learning practice, Stock Market prediction, or even applications that i made for fun.
 
 
+4.DLseminar
+--------
+* The notes I took while attending the Deep Learning Seminar held by professor Seungsang Oh in Mathematics Dept. of Korea University.
+
+* Written in LaTeX. 
+
+* There might be wrong information in this book. please note me if you found any wrong information. mod96@naver.com
 
 
 
