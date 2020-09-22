@@ -1,0 +1,8 @@
+1. .fit 의 `class_weight' 속성 이용해서 모델 train 해보기 + (optional) discussion 작성
+ => pdf 제출
+
+2. d2l CH.11.1(Optimization and Deep Learning), 2(Convexity), 3(Gradient Descent)
+ => pdf 제출
+
+3. (optional) d2l CH.2.5(Automatic Differentiation)
+ => pdf 제출
