@@ -35,7 +35,7 @@ About contents...
 * There might be wrong information in this book. please note me if you found any wrong information. mod96@naver.com
 
 
-5. KUCC
+5.KUCC
 ------
 * Course materials I made for [Deep Learning for implementation]
 
@@ -43,4 +43,4 @@ About contents...
 
 
 
-last update : 2020/09/18
+last update : 2020/09/22
