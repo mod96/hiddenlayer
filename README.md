@@ -25,6 +25,7 @@ About contents...
 
 * This contains DataScience Projects, Deep learning practice, Stock Market prediction, or even applications that i made for fun.
 
+* My [Dacon] name is `혼종모델' 
 
 4.DLseminar
 --------
@@ -43,4 +44,4 @@ About contents...
 
 
 
-last update : 2020/10/04
+last update : 2020/10/16
