@@ -16,3 +16,5 @@ references :
 <li>NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE, 2014</li>
   </ul>
 </h6>
+
+original competition link : https://dacon.io/competitions/official/235731/leaderboard
