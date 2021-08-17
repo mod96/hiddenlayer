@@ -44,4 +44,6 @@ About contents...
 
 
 
-last update : 2020/10/16
+last update : 2021/08/17
+
+- Currently working as a software engineer for Samsung Electronics DS
