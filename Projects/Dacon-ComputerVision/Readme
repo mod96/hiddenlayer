@@ -9,3 +9,6 @@ GAN : I trained simple GAN and it did great job...but as i needed label & digit,
 NoisyStudent : I searched 'https://paperswithcode.com/sota/image-classification-on-imagenet', and tried to use the method of FixEfficientNet. Then realized that they used the method of NoisyStudent. I tried to manipulate. But the result wasn't good.
 
 final submission - Ensemble : trained 10 models including 5 EfficientNetB5 and 5 InceptionResNetV2, chose 6~7 models that have sufficiently large accuracy
+
+
+original competition link : https://dacon.io/competitions/official/235626/leaderboard
