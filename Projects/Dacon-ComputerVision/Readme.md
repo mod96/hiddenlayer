@@ -18,3 +18,5 @@
 </ul>
 
 original competition link : https://dacon.io/competitions/official/235626/leaderboard
+
+final rank : 15/356
