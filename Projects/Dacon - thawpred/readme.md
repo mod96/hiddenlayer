@@ -9,5 +9,8 @@ For the final submission, I trained some locally identified good models in the c
 <h5>
 references : 
 </h5>
+<h6>
 1. Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting, 2015
+
 2. NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE, 2014
+</h6>
