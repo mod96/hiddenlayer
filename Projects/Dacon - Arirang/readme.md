@@ -1,12 +1,12 @@
-<p>
-0 : I simply ran https://keras.io/examples/vision/retinanet/ and explored what COCO data looked like.
+<ul>
+<li>0 : I simply ran https://keras.io/examples/vision/retinanet/ and explored what COCO data looked like.</li>
 
-1 : I tried the baseline provided by dacon, made the data to geojson format, and tried yolov3 provided by medium.
+<li>1 : I tried the baseline provided by dacon, made the data to geojson format, and tried yolov3 provided by medium.</li>
 
-RetinaPrep : I got the geojson that was created to let Retinanet learn. The result wasn't good.
+<li>RetinaPrep : I got the geojson that was created to let Retinanet learn. The result wasn't good.</li>
 
-Practice : I've tried a variety of models, half giving up. Among them, I succeeded in applying the code of BBAVectors-Oriented-Object-Detection in the direction I wanted, and I got good results.
-</p>
+<li>Practice : I've tried a variety of models, half giving up. Among them, I succeeded in applying the code of BBAVectors-Oriented-Object-Detection in the direction I wanted, and I got good results.</li>
+</ul>
 <p>
 It's a pity that I haven't tried more because I have a lot to prepare for, such as interviews and exams. However, I was able to understand the object detection in a short period of time, which was not bad.
 </p>
